@@ -1,0 +1,67 @@
+{
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.renderIndentGuides": true,
+  "editor.minimap.enabled": true,
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": 0,
+  "vsicons.projectDetection.disableDetect": true,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.meteor": true,
+    "**/android/app/build": true
+  },
+  "eslint.packageManager": "yarn",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "extensions.ignoreRecommendations": true,
+  "flow.useNPMPackagedFlow": true,
+  "vsicons.dontShowNewVersionMessage": true,
+  "emmet.triggerExpansionOnTab": true,
+  "bracketPairColorizer.showBracketsInGutter": true,
+  "bracketPairColorizer.scopeLineRelativePosition": true,
+  "bracketPairColorizer.independentPairColors": [
+    [
+      "()",
+      [
+        "White",
+        "Orchid",
+        "Gold"
+      ],
+      "Red"
+    ],
+    [
+      "[]",
+      [
+        "White",
+        "Orchid",
+        "Gold"
+      ],
+      "Red"
+    ],
+    [
+      "{}",
+      [
+        "White",
+        "Orchid",
+        "Gold"
+      ],
+      "Red"
+    ]
+  ],
+  "bracketPairColorizer.consecutivePairColors": [
+    "()",
+    "[]",
+    "{}",
+    [
+      "White",
+      "Orchid",
+      "Gold"
+    ],
+    "Red"
+  ],
+  "workbench.activityBar.visible": true,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.validate.enable": false
+}
